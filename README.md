@@ -1,17 +1,72 @@
-# DIO_Heineken-Dashboard_Vendas_Xbox
-Aqui está o texto revisado e mais explicativo:  
+# 🍺 DIO Heineken - Dashboard de Vendas Xbox
+
+**Visualização Dinâmica de Dados no Excel com Gráficos e Segmentação**
+
+**Baixe o Dash para melhor visualização**
+**https://github.com/AugustoASC/DIO_Heineken-Dashboard-Vendas/blob/main/Dash%20vendas.xlsx**
+
+## 📘 Descrição
+
+Este projeto foi desenvolvido como parte de um desafio da [Digital Innovation One (DIO)](https://www.dio.me/), com foco em visualização de dados utilizando o Microsoft Excel. Criamos um dashboard interativo para facilitar a análise de vendas relacionadas ao Xbox Game Pass, EA Pass e Minecraft Pass.
 
 ---
 
-Iniciamos o processo fazendo algumas perguntas para auxiliar nos cálculos iniciais. Em seguida, criamos uma Tabela Dinâmica para organizar as informações de forma mais clara e acessível.  
+## 🧪 Etapas do Projeto
 
-Com base nessa Tabela Dinâmica, desenvolvemos um Gráfico Dinâmico que ajudará a visualizar os dados de maneira intuitiva. Esse gráfico será incorporado ao dashboard, permitindo uma análise mais prática do plano de assinatura do Xbox Game Pass.  
+1. **Coleta de Inputs:**
 
-Após a criação do gráfico, aplicamos uma segmentação de dados para selecionar as informações mais relevantes e facilitar o filtro dos gráficos.  
+   * O projeto começa com a coleta de informações através de perguntas iniciais para orientar os cálculos.
 
-Na aba "Dashboard", personalizamos a interface com imagens, cores e textos para torná-la mais visualmente atraente. Em seguida, copiamos e colamos a Tabela Dinâmica na aba "Dashboard" para integrar os dados ao painel.  
+2. **Tabela Dinâmica Inicial:**
 
-Também criamos uma nova Tabela Dinâmica contendo informações do EA Pass. Para melhorar a apresentação do dashboard, utilizamos formas gráficas e aplicamos a função “=” dentro dessas formas, vinculando-as aos valores da Tabela Dinâmica do EA Pass, localizada na aba de cálculos. O mesmo processo foi realizado para o Minecraft Pass.  
+   * Criamos uma Tabela Dinâmica para organizar os dados de forma estruturada e facilitar a leitura.
 
-Por fim, ajustamos o alinhamento e aplicamos formatações finais para deixar o dashboard mais organizado e visualmente agradável.  
+3. **Gráfico Dinâmico:**
 
+   * Com base na Tabela Dinâmica, geramos um gráfico interativo que oferece uma visualização intuitiva dos dados.
+
+4. **Segmentação de Dados:**
+
+   * Adicionamos segmentadores para filtrar as informações rapidamente, proporcionando uma experiência mais interativa.
+
+5. **Criação do Dashboard:**
+
+   * Personalizamos a aba "Dashboard" com imagens, cores e textos.
+   * Incorporamos a Tabela Dinâmica e os gráficos diretamente ao painel principal.
+
+6. **Módulos Específicos (EA Pass e Minecraft Pass):**
+
+   * Criamos novas Tabelas Dinâmicas com dados específicos.
+   * Usamos formas gráficas com a função `=` para referenciar dinamicamente os valores da aba de cálculos.
+
+7. **Ajustes Visuais Finais:**
+
+   * Alinhamento dos elementos.
+   * Formatações para melhorar a experiência visual e a usabilidade do dashboard.
+
+---
+
+## 📊 Resultado Final
+
+O resultado é um dashboard visualmente atrativo e altamente funcional, com:
+
+* Gráficos dinâmicos interativos
+* Filtros por segmentação
+* Módulos separados para planos diferentes
+* Design focado em usabilidade
+
+Abra o arquivo `Dash vendas.xlsx` no Excel para visualizar e interagir com o dashboard.
+
+---
+
+## ✨ Tecnologias Utilizadas
+
+* Microsoft Excel (Tabelas Dinâmicas, Gráficos, Segmentações, Formas)
+* Lógica de Referências com `=`
+* Design de Interface com elementos visuais
+
+---
+
+## 🤝 Contribuições
+
+Este projeto é voltado para aprendizado e prática. Sugestões são bem-vindas! Se quiser contribuir com melhorias ou outras visualizações, abra uma issue ou pull request.
